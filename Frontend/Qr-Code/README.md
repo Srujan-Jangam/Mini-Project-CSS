@@ -1,12 +1,30 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - QR Code Component Solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to the [QR Code Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+## Overview
 
-  - I created a qr code component it basically shows a qr code component in the center of the screen this was a challenge by frontend mentor and I tried to replicate it on my own 
+### The Challenge
+Create a QR code component that is centered on the page and matches the provided design as closely as possible.
 
-  - ![Screenshot of the component i created](./images/Screenshot.png)
+### Screenshot
+![Screenshot of my solution](./images/Screenshot.png)
 
-  - I built this width Html and CSS only
-  - I learned how to use flexbox accurately and seamlessly applying it on the div although i faced problems as i am just a beginner and never had a hands on practice always use to watch tutorials but i took help of chatgpt and tried to built this on my own
+### Links
+- Live Site URL: *[https://mini-projects-five-roan.vercel.app/]*
+
+## My Process
+
+### Built With
+- HTML5
+- CSS3
+- Flexbox
+
+### What I Learned
+This project helped me understand how to use **Flexbox** effectively for centering elements on a webpage.  
+Even though I faced some challenges as a beginner, it gave me practical experience beyond just watching tutorials.  
+I took guidance from ChatGPT and implemented the layout fully on my own, which helped me build real confidence in writing HTML and CSS from scratch.
+
+## Author
+- Frontend Mentor - [@Srujan-Jangam](https://www.frontendmentor.io/profile/Srujan-Jangam)
+- Twitter - [@Srujan_Jangam](https://twitter.com/Srujan_Jangam)
