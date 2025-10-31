@@ -40,9 +40,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** [Add your Frontend Mentor solution link here](#)
-- **Live Site URL:** [Add your live site link here](#)
-
+- **Solution URL:** [https://www.frontendmentor.io/solutions/social-links-profile-giJ_zDbKva]
+- **Live Site URL:** [https://social-links-profile-wheat-one.vercel.app/]
 ---
 
 ## My Process
