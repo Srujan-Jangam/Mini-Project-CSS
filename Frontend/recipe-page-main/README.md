@@ -13,8 +13,8 @@ The challenge was to replicate a design of a recioe page which was to be done by
 
 
 ### Links
-- Solution URL: [#]
-- Live Site URL: [#]
+- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-main-Cg4nxLwbxf]
+- Live Site URL: [https://recipe-page-smoky-three.vercel.app/]
 
 ## My Process
 
