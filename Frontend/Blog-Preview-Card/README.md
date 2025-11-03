@@ -13,7 +13,7 @@ Users should be able to:
 ![Screenshot of my component](./assets/images/Screenshot.png).
 
 ### Links
-- Solution URL: [https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/challenge/65e6f48617e502f0b6ca3d00/complete]
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-KEovAsvbg9]
 - Live Site URL: [https://blog-preview-card-five-kappa.vercel.app/]
 
 ## My Process
